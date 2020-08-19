@@ -1,0 +1,5 @@
+pkg-resources==0.0.0
+python-lzf==0.2.4
+rdbtools==0.1.15
+redis==3.0.1
+redis-py-cluster==2.0.0
